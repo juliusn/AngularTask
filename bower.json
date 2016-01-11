@@ -1,0 +1,12 @@
+{
+  "name": "app-name",
+  "version": "0.0.1",
+  "author": "developerName",
+  "license": "ISC",
+  "dependencies": {
+    "modernizr": "~2.6.2",
+    "jquery": "~2.2.0",
+    "angular": "~1.4.8",
+    "bootstrap": "~3.3.6"
+  }
+}
